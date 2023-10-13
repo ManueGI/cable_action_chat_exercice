@@ -1,24 +1,12 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This app is a chat using Javascript (AJAX) to allow users to see messages in real time :
 
-Things you may want to cover:
+* Ruby 3.1.2
 
-* Ruby version
+* Websocket : Action Cable
 
-* System dependencies
+* Database initialization : sqlite
+  
+* Framework JS : Stimulus JS
 
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
